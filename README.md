@@ -1,2 +1,2 @@
 # teslatech
-Projetos e ideias inspiradas nas tecnologias de Tesla e inovações de Elon Musk.
+Projetos, artigos científicos e ideias inspiradas nas tecnologias de Tesla e inovações de Elon Musk.
